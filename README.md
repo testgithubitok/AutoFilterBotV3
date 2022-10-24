@@ -74,7 +74,7 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Original Repo](https://github.com/Mahesh0253/Media-Search-bot)
 * [subinps](https://github.com/subinps/Media-Search-bot)
-* [Editing Muhammed Rk](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+* [Editing saheer s](https://github.com/testgithubitok/AutoFilterBotV3)
 * [bot_update_tech_yt](https://t.me/bot_update_tech_yt)
 * [Lucifer Morningstar](@Lucifer_Devil_AD)
 
